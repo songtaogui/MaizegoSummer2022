@@ -2,7 +2,7 @@
 
 The first summer tutorial for maizego members
 
-Please find each Lectures here:
+Please find each Lecture here:
 
 - [Preprint of Lecture 01](https://songtaogui.github.io/MaizegoSummer2022/Lecture01/Preprint)
 - Lecture 01
